@@ -1,1 +1,11 @@
+thesis-results-images/
+├── Experiment1/
+│   ├── image1.png
+│   ├── image2.png
+│   └── ...
+├── Experiment2/
+│   ├── image1.png
+│   ├── image2.png
+│   └── ...
+└── README.md
 
